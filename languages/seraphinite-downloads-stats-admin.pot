@@ -1,0 +1,622 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Seraphinite Solutions
+# This file is distributed under the same license as the seraphinite-downloads-stats package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  cmn.admin.pot (seraphinite-downloads-stats 1.3.1)  #-#-#-#-#\n"
+"Project-Id-Version: seraphinite-downloads-stats 1.3.1\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  main.admin.pot (seraphinite-downloads-stats 1.3.1)  #-#-#-#-#\n"
+"Project-Id-Version: seraphinite-downloads-stats 1.3.1\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Functionality is not implemented yet.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004001"
+msgstr ""
+
+# General error.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004005"
+msgstr ""
+
+# The operation attempted is not supported.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004021"
+msgstr ""
+
+# Access is denied. Ensure that there are proper access rights.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070005"
+msgstr ""
+
+# One or more arguments are invalid.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070057"
+msgstr ""
+
+# Not found.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070490"
+msgstr ""
+
+# Data is corrupted.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070570"
+msgstr ""
+
+# Result code 0x%08X.
+#. translators: 1 - error code.
+#, php-format
+msgctxt "admin.ErrDescr_Common"
+msgid "Def_%08X"
+msgstr ""
+
+# The settings have been restored successfully to their defaults.
+msgctxt "admin.Common_Settings"
+msgid "ResetSuccInfo"
+msgstr ""
+
+# The settings have not been restored: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "ResetErrInfo_%1$s"
+msgstr ""
+
+# Documentation
+msgctxt "admin.Common"
+msgid "PluginDocLink"
+msgstr ""
+
+# Order Premium Version
+msgctxt "admin.Common_SwitchTo"
+msgid "OrderInLockedFeatureBtn"
+msgstr ""
+
+# Other Features
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtTitle"
+msgstr ""
+
+# Please, switch to the <strong>free extended plugin</strong> version with %1$sfree additional features and preview of premium ones%2$s.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtInfo_%1$s%2$s"
+msgstr ""
+
+# Download the free extended plugin version
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLinkBtn"
+msgstr ""
+
+# Download
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLinkSmallBtn"
+msgstr ""
+
+# Please, press the '<strong>%1$s</strong>' button to open the vendor's website, then <strong>download free version</strong> and <strong>replace the existed one</strong>.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ContentNotInplaceInfo_%1$s"
+msgstr ""
+
+# By pressing "%1$s" button you are agreeing with the %2$sEnd-User License Agreement%3$s.
+#. translators: 1 - button name; 2,3 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "LicAcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# Rate It
+msgctxt "admin.Common_RateIt"
+msgid "Title"
+msgstr ""
+
+# Thank you!
+msgctxt "admin.Common_RateIt"
+msgid "RateSmallBtn"
+msgstr ""
+
+# If you like the plugin please could you give us a %1$s rating.%2$s%3$sThank you very much in advance. We do %4$sall of our best%5$s.
+#. translators: 1 - link; 2 - Info_P2; 3 - separator tags; 4,5 - link tags.
+#, php-format
+msgctxt "admin.Common_RateIt"
+msgid "Info_%1$s%2$s%3$s%4$s%5$s"
+msgstr ""
+
+# It really improves the plugin.
+msgctxt "admin.Common_RateIt"
+msgid "Info_P2"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginSubjectTitle_%1$s%2$s"
+msgstr ""
+
+# Downloads Statistics
+msgctxt "admin.Common"
+msgid "PluginTitle"
+msgstr ""
+
+# Downloads Statistics
+msgctxt "admin.Common"
+msgid "PluginTitleLong"
+msgstr ""
+
+# Seraphinite Downloads Statistics
+msgctxt "admin.Common"
+msgid "PluginTitleFull"
+msgstr ""
+
+# Measure direct downloads from your site.
+msgctxt "admin.Common"
+msgid "PluginDescription"
+msgstr ""
+
+# Measure direct downloads from your site and publish it to Google Analytics.
+msgctxt "admin.Common"
+msgid "PluginDescriptionFull"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginNameToDetails_%1$s%2$s"
+msgstr ""
+
+# Function '%1$s' is blocked
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FuncBlocked_%1$s"
+msgstr ""
+
+# Can't execute (%1$s) command
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "ExecErr_%1$s"
+msgstr ""
+
+# Command (%1$s) returned the code %2$d and response (%3$s)
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "ExecErrCode_%1$s%2$d%3$s"
+msgstr ""
+
+# Can't create temporary file in '%1$s' directory
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "TmpFileCreateErr_%1$s"
+msgstr ""
+
+# Can't write in '%1$s' directory
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "DirWriteErr_%1$s"
+msgstr ""
+
+# Can't write '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileWriteErr_%1$s"
+msgstr ""
+
+# Can't read '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileReadErr_%1$s"
+msgstr ""
+
+# Can't modify '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileModifyErr_%1$s"
+msgstr ""
+
+# Can't rename '%1$s' file to '%2$s'
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileRenameErr_%1$s%2$s"
+msgstr ""
+
+# Can't delete '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileDeleteErr_%1$s"
+msgstr ""
+
+# Can't mark '%1$s' file as executable
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileMakeExecErr_%1$s"
+msgstr ""
+
+# Can't download '%1$s'
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "NetDownloadErr_%1$s"
+msgstr ""
+
+# Can't recognize '%1$s' MIME type
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "NetMimeErr_%1$s"
+msgstr ""
+
+# About
+msgctxt "admin.Common_About"
+msgid "Title"
+msgstr ""
+
+# Seraphinite Downloads Statistics (Base)
+msgctxt "admin.Common"
+msgid "PluginTitleFullWithSuffix"
+msgstr ""
+
+# %1$sVersion:%2$s %3$s
+#. translators: 1,2 - strong tags; 3 - version.
+#, php-format
+msgctxt "admin.Common_About"
+msgid "Version_%1$s%2$s%3$s"
+msgstr ""
+
+# Third-Party Software
+msgctxt "admin.Common_About"
+msgid "Link3rdPartySoft"
+msgstr ""
+
+# Get support...
+msgctxt "admin.Common_About"
+msgid "LinkSupport"
+msgstr ""
+
+# About Vendor
+msgctxt "admin.Common_AboutVendor"
+msgid "Title"
+msgstr ""
+
+# We develop solutions for WordPress and other platforms to streamline your business and life.
+msgctxt "admin.Common_AboutVendor"
+msgid "Info1"
+msgstr ""
+
+# Please, do not hesitate to %1$scontact us%2$s if you have any %3$squestion%4$s or want %5$sadditional features%6$s.
+#. translators: 1,2 - link tags; 3,4 - strong tags; 5,6 - strong tags.
+#, php-format
+msgctxt "admin.Common_AboutVendor"
+msgid "Info2_%1$s%2$s%3$s%4$s%5$s%6$s"
+msgstr ""
+
+# More plugins...
+msgctxt "admin.Common_AboutVendor"
+msgid "MorePluginsBtn"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AboutVendor"
+msgid "MoreInfoBtn"
+msgstr ""
+
+# License
+msgctxt "admin.Common_Lic"
+msgid "SettingsTitle"
+msgstr ""
+
+# Enable activation of %1$spremium features%2$s or switch to the <strong>free extended plugin</strong> version with additional features.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLicenseInfo_%1$s%2$s"
+msgstr ""
+
+# Featured Plugins
+msgctxt "admin.Common_AdvertProducts"
+msgid "Title"
+msgstr ""
+
+# This promotion %1$sisn't shown%2$s in the %3$spremium version%4$s.
+#. translators: 1,2 - strong tags; 3,4 - strong tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "LockedFeatureInsideInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AdvertProducts"
+msgid "ItemMoreInfoBtn"
+msgstr ""
+
+# All plugins can be discovered at the %1$smain site%2$s.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "TotalInfo_%1$s%2$s"
+msgstr ""
+
+# All current settings will be lost. Are you sure you want to restore the default settings?
+msgctxt "admin.Common_Settings"
+msgid "RestoreConfirm"
+msgstr ""
+
+# Previous
+msgctxt "admin.Common_Settings"
+msgid "WizPrevBtn"
+msgstr ""
+
+# Next
+msgctxt "admin.Common_Settings"
+msgid "WizNextBtn"
+msgstr ""
+
+# Finish
+msgctxt "admin.Common_Settings"
+msgid "WizFinishBtn"
+msgstr ""
+
+# Begin setup wizard
+msgctxt "admin.Common_Settings"
+msgid "WizStartBtn"
+msgstr ""
+
+# Setup wizard
+msgctxt "admin.Common_Settings"
+msgid "TitleWiz"
+msgstr ""
+
+# The settings have been saved successfully.
+msgctxt "admin.Common_Settings"
+msgid "SaveSuccInfo"
+msgstr ""
+
+# The settings have been partially saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveWarnInfo_%1$s"
+msgstr ""
+
+# The settings have not been saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveErrInfo_%1$s"
+msgstr ""
+
+# The plugin's behavior has been changed since previous used version. Please, see the details in the %1$sproduct's changelog%2$s and correct the settings if necessary.
+#, php-format
+msgctxt "admin.Common_ChangeVersion"
+msgid "Info_%1$s%2$s"
+msgstr ""
+
+# Confirm
+msgctxt "admin.Common_ChangeVersion"
+msgid "ConfirmBtn"
+msgstr ""
+
+# It looks like you've been using the plugin for a while now, thanks!
+msgctxt "admin.Common_RateIt"
+msgid "InfoPrefix"
+msgstr ""
+
+# Say thank you!
+msgctxt "admin.Common_RateIt"
+msgid "RateBtn"
+msgstr ""
+
+# Postpone
+msgctxt "admin.Common_RateIt"
+msgid "PostponeBtn"
+msgstr ""
+
+# Accept the End-User License Agreement
+msgctxt "admin.Common_Eula"
+msgid "AcceptBtn"
+msgstr ""
+
+# Please, accept the new %1$sEnd-User License Agreement%2$s. By pressing "%3$s" button you are agreeing with it.
+#. translators: 1,2 - link tags; 3 - button name.
+#, php-format
+msgctxt "admin.Common_Eula"
+msgid "AcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# Plugin is not compatible with current PHP version %1$s according to it %3$srequirements%4$s. Please <strong>update your PHP version to %2$s or higher</strong>.
+#. translators: 1 - PHP ver, 2 - PHP requred ver, 3,4 - link tags.
+#, php-format
+msgctxt "admin.Common"
+msgid "PhpMinVerErr_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Plugin is not compatible with current WordPress version %1$s according to it %3$srequirements%4$s. Please <strong>update your WordPress to %2$s or higher</strong>.
+#. translators: 1 - PHP ver, 2 - PHP requred ver, 3,4 - link tags.
+#, php-format
+msgctxt "admin.Common"
+msgid "WpMinVerErr_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Add
+msgctxt "admin.Common_ItemsList"
+msgid "AddItemBtn"
+msgstr ""
+
+# Delete all
+msgctxt "admin.Common_ItemsList"
+msgid "DelAllItemsBtn"
+msgstr ""
+
+# No items
+msgctxt "admin.Common_ItemsList"
+msgid "NoItemsInfo"
+msgstr ""
+
+# Google Analytics
+msgctxt "admin.Settings_Ga"
+msgid "Title"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Ga"
+msgid "EnableLbl"
+msgstr ""
+
+# Tracking ID
+msgctxt "admin.Settings_Ga"
+msgid "TrackIdLbl"
+msgstr ""
+
+# Event category
+msgctxt "admin.Settings_Ga"
+msgid "EvCatLbl"
+msgstr ""
+
+# Custom dimension for client ID
+msgctxt "admin.Settings_Ga"
+msgid "CusDimCliIdLbl"
+msgstr ""
+
+# Not use
+msgctxt "admin.Settings_Ga"
+msgid "CusDimCliIdEdtPh"
+msgstr ""
+
+# Local DataBase
+msgctxt "admin.Settings_Ldb"
+msgid "Title"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Ldb"
+msgid "EnableLbl"
+msgstr ""
+
+# Data
+msgctxt "admin.Settings_Ldb"
+msgid "DataLbl"
+msgstr ""
+
+# Clear after save settings
+msgctxt "admin.Settings_Ldb"
+msgid "DataClearChk"
+msgstr ""
+
+# Events will be written to the simple database table named '%1$s'. Use any database viewer or editor to see events.
+#, php-format
+msgctxt "admin.Settings_Ldb"
+msgid "NoteStr_%1$s"
+msgstr ""
+
+# 1 minute
+msgctxt "admin.Settings_SendMode_Cmb"
+msgid "Min1"
+msgstr ""
+
+# 2 minutes
+msgctxt "admin.Settings_SendMode_Cmb"
+msgid "Min2"
+msgstr ""
+
+# 5 minutes
+msgctxt "admin.Settings_SendMode_Cmb"
+msgid "Min5"
+msgstr ""
+
+# 10 minutes
+msgctxt "admin.Settings_SendMode_Cmb"
+msgid "Min10"
+msgstr ""
+
+#, php-format
+msgctxt "admin.Notice"
+msgid "DataDirNotWrittable_%1$s%2$s"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_General"
+msgid "Title"
+msgstr ""
+
+# Relative site path(s)
+msgctxt "admin.Settings_Items"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Items"
+msgid "EnableChk"
+msgstr ""
+
+# Use event label
+msgctxt "admin.Settings_Items"
+msgid "EvtLblEnableChk"
+msgstr ""
+
+# Path
+msgctxt "admin.Settings_Items"
+msgid "PathLbl"
+msgstr ""
+
+# Any
+msgctxt "admin.Settings_Items"
+msgid "FilesExtsInclEditPh"
+msgstr ""
+
+# Files types
+msgctxt "admin.Settings_Items"
+msgid "FilesExtsInclLbl"
+msgstr ""
+
+# Type path(s) relative to '%1$s' to monitor their content.
+#, php-format
+msgctxt "admin.Settings_Items"
+msgid "NoteStr_%1$s"
+msgstr ""
+
+# Statistics event label
+msgctxt "admin.Settings_EvLbl"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_EvLbl"
+msgid "EnableChk"
+msgstr ""
+
+# Argument separator:
+msgctxt "admin.Settings_EvLbl"
+msgid "SepLbl"
+msgstr ""
+
+# Argument value delimiter:
+msgctxt "admin.Settings_EvLbl"
+msgid "DelimLbl"
+msgstr ""
+
+# So, e.g., 'arg1=v1&arg2=v2' will be transformed to 'arg1%1$sv1%2$sarg2%3$sv2'.
+#, php-format
+msgctxt "admin.Settings_EvLbl"
+msgid "ExampleStr_%1$s%2$s%3$s"
+msgstr ""
+
+# Send mode
+msgctxt "admin.Settings_SendMode"
+msgid "Lbl"
+msgstr ""
+
+# Schedule every %1$s
+# Schedule every %1$s
+#, php-format
+msgctxt "admin.Settings_SendMode"
+msgid "SchdEvery_%1$s"
+msgid_plural "SchdEvery_%1$s"
+msgstr[0] ""
+msgstr[1] ""
